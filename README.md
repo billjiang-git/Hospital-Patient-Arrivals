@@ -12,24 +12,6 @@ The goal of this project is to generate hospital patient arrival times with high
 - **Data Processing & Visualization**: Performed data cleaning, transformation, analysis, and visualization using Pandas, NumPy, SciPy, and Matplotlib.
 - **Machine Learning Techniques**: Applied clustering and classification algorithms using Scikit-learn to enhance arrival time predictions.
 
-## Installation
-
-To run the code locally, follow these steps:
-
-1. Clone this repository:
-    ```bash
-    git clone https://github.com/yourusername/hospital-arrival-time-generation.git
-    ```
-2. Navigate to the project directory:
-    ```bash
-    cd hospital-arrival-time-generation
-    ```
-
-3. Install the required Python packages:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
 ### Required Libraries
 - Pandas
 - NumPy
